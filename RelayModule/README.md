@@ -6,7 +6,7 @@ Like many people I purchased this cheap ESP8266 powered module online and assume
 
 It comes with some code burned in that you have to interface with using an AT command set, and to be honest that makes it pretty useless for home automation. However, it is powered by an ESP8266, which means that you must be able to do something with it.
 
-After a lot of Googling I managed to pull enough comments and wiring diagrams together to get this working, so to save anyone else out htere having the same problem, I thought I'd make this bare bones sketch available!
+After a lot of Googling I managed to pull enough comments and wiring diagrams together to get this working, so to save anyone else out there having the same problem, I thought I'd make this bare bones sketch available!
 
 ## Wiring example
 
