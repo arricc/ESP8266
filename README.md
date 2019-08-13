@@ -6,6 +6,6 @@ Hopefully these will save someone else as much time as I wasted getting them run
 
 Only one project so far:
 
-[ESP8266 Relay Module](./Relaymodule/)
+[ESP8266 Relay Module](./RelayModule/)
 
-![ESP8266 Relay Module](Relaymodule/ESP8266RelayModule.jpg)
+![ESP8266 Relay Module](RelayModule/ESP8266RelayModule.jpg)
